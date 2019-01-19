@@ -9,9 +9,11 @@ body {
 p {
   color: red;
   text-color: yellow;
-  font-size: 500px;
+  font-size: 100px;
 }
 #banner {
   font-size: 50px;
-  
+}
+.id {
+  border: 1px black dashed;
 }
