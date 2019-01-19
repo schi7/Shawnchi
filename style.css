@@ -2,7 +2,11 @@ img {
   width: 200px;
   height:200px;
 }
-p {
-  color: red
+background {
+  color: LemonChiffon
   
+}
+p {
+  color: red;
+  text-color: yellow;
 }
